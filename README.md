@@ -1,2 +1,2 @@
 # Day_25
-https://sa-fardin.github.io/cup_plans/
+https://sa-fardin.github.io/days-25/
